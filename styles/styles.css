@@ -11,3 +11,7 @@ img {
 .first {
     border: 5px solid #395d9d;
 }
+table, th, td {
+    border: 1px solid #0e2815;
+    border-collapse: collapse;
+}
