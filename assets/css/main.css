@@ -1,10 +1,6 @@
 header, footer {
     width: 100%;
 }
-header {
-    position: fixed;
-    top: 0;
-}
 
 /* Bootstrap style overrides */
 /*.bg-dark {*/
